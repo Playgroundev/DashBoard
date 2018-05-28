@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Tool"></activity>
+        <activity android:name=".Tool" />
+        <activity android:name=".Bank" />
+        <activity android:name=".Ideas"></activity>
     </application>
 
 </manifest>
